@@ -1,0 +1,31 @@
+[0m[[0minfo[0m] [0mPackaging /home/bolei/workspace/pagerank/target/scala-2.9.2/pagerank_2.9.2-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$main$1$$anonfun$5$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	PageRank.h[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank.h[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	PageRank.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$main$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$main$1$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$main$1$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	Page.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/Page.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$.class[0m
+[0m[[0mdebug[0m] [0m	PageRank$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/bolei/workspace/pagerank/target/scala-2.9.2/classes/PageRank$$anonfun$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
